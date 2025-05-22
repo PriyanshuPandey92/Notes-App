@@ -1,3 +1,9 @@
+
+# Notes-Taking-App
+Showcasing my Frontend Skills (Form Validations, State Management, Routing)
+
+I have mentioned all the required dependencies in 'package.json' so just use : " npm i " to install required node moudules.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -48,4 +54,5 @@ export default tseslint.config({
   },
 })
 ```
-# Notes-App
+  
+
